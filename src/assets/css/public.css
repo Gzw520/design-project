@@ -1,0 +1,16 @@
+@charset "utf-8";
+html,body,h1,h2,h3,h4,h5,h6,ul,ol,li,dl,dd,dt,p,form,fieldset,legend,input,image,figure,figcaption{margin: 0;padding: 0;}
+h1,h2,h3,h4,h5,h6{font-size:16px;font-weight: normal;}
+b,strong{font-weight:normal;}
+em,i{font-style:normal;}
+a,u{text-decoration: none;color:#000;}
+ul,ol,li{list-style:none;}
+input{outline:none;}
+img{border:0;display:block;}
+textarea{resize:none;}
+body{font-size:16px;font-family: "微软雅黑";}
+.clear_fix:after{content:"";clear:both;display:block;height:0;overflow:hidden;visibility: hidden;}
+html,body{height:100%;}
+*{box-sizing: border-box;}
+
+
